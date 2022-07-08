@@ -37,7 +37,7 @@ Understanding core programming concepts and why they are used is just as importa
 <br>
 
 ---
-All excercise files provided in this course are licensed under the [LinkedIn Learning Exercise File License][learning-license]. Files may include third-party content, which may be subject to other license terms as provided in the files.
+All exercise files provided in this course are licensed under the [LinkedIn Learning Exercise File License][learning-license]. Files may include third-party content, which may be subject to other license terms as provided in the files.
 
 <!-- quick links -->
 <!-- badge info -->

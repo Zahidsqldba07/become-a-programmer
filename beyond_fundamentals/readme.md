@@ -20,7 +20,7 @@ Continue your coding journey as you dive deeper into the foundational concepts, 
 <br>
 
 ---
-All excercise files provided in this course are licensed under the [LinkedIn Learning Exercise File License][learning-license]. Files may include third-party content, which may be subject to other license terms as provided in the files.
+All exercise files provided in this course are licensed under the [LinkedIn Learning Exercise File License][learning-license]. Files may include third-party content, which may be subject to other license terms as provided in the files.
 
 <!-- quick links -->
 <!-- badge info -->
