@@ -52,7 +52,7 @@ By viewing and/or interacting with these files as a current or future student of
 <!-- badge info -->
 [course-badge]:https://img.shields.io/badge/learning-programming%20foundations-ffffff?logo=Linkedin&labelColor=0a66c2&style=for-the-badge
 [course-link]:https://www.linkedin.com/learning/paths/become-a-programmer-foundations "view on LinkedIn"
-[license-badge]:https://img.shields.io/github/license/parasiticfrisk/become-a-programmer?color=informational&&style=for-the-badge
+[license-badge]:https://img.shields.io/github/license/parasiticfrisk/become-a-programmer?color=informational&style=for-the-badge
 [&copy]:LICENSE "view license"
 <!-- course info -->
 [p01]:fundamentals
