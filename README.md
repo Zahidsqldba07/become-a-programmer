@@ -4,6 +4,7 @@
 
 [![course-badge]][course-link]
 [![license-badge]][&copy]
+![Maintenance](https://img.shields.io/maintenance/no/2021?style=for-the-badge)
 
 </div>
 
@@ -55,18 +56,18 @@ By viewing and/or interacting with these files as a current or future student of
 [license-badge]:https://img.shields.io/github/license/parasiticfrisk/become-a-programmer?color=informational&style=for-the-badge
 [&copy]:LICENSE "view license"
 <!-- course info -->
-[p01]:fundamentals
-[p02]:beyond_fundamentals
-[p03]:real_examples
+[p01]:fundamentals "view on github"
+[p02]:beyond_fundamentals "view on github"
+[p03]:real_examples "view on github"
 [p04]:https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3 "view on LinkedIn"
-[p05]:algorithms
-[p06]:design_patterns
-[p07]:data_structures
+[p05]:algorithms "view on github"
+[p06]:design_patterns "view on github"
+[p07]:data_structures "view on github"
 [p08]:https://www.linkedin.com/learning/programming-foundations-databases-2 "view on LinkedIn"
-[p09]:apis_web_services
+[p09]:apis_web_services "view on github"
 [p10]:https://www.linkedin.com/learning/programming-foundations-web-security-2 "view on LinkedIn"
-[p11]:tdd
-[p12]:testing_qa
+[p11]:tdd "view on github"
+[p12]:testing_qa "view on github"
 [p13]:https://www.linkedin.com/learning/programming-foundations-secure-coding "view on LinkedIn"
 [p14]:https://www.linkedin.com/learning/programming-foundations-fuzzy-logic "view on LinkedIn"
 <!-- certificate -->
@@ -85,4 +86,5 @@ By viewing and/or interacting with these files as a current or future student of
 [c12]:https://raw.githubusercontent.com/parasiticfrisk/become-a-programmer/main/.github/software-testing-qa.jpg?token=GHSAT0AAAAAABWNBEJ3OLZ42FJPLFYPL7GSYWIOHRA "view certificate"
 [c13]:https://raw.githubusercontent.com/parasiticfrisk/become-a-programmer/main/.github/secure-coding.jpg?token=GHSAT0AAAAAABWNBEJ3LJ2FYLZ65YFAR6ZKYWIOH2Q "view certificate"
 [c14]:https://raw.githubusercontent.com/parasiticfrisk/become-a-programmer/main/.github/fuzzy-logic.jpg?token=GHSAT0AAAAAABWNBEJ22LT7LM3OTVT6TA4AYWIOIEA "view certificate"
+<!-- misc -->
 [Academic Honesty Policy]:academic_honesty_policy "view policy"
