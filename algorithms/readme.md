@@ -4,6 +4,7 @@
 
 [![course-badge]][course-link]
 [![learning-license-badge]][learning-license]
+![Maintenance](https://img.shields.io/maintenance/no/2021?style=for-the-badge)
 
 </div>
 
@@ -35,7 +36,7 @@ All exercise files provided in this course are licensed under the [LinkedIn Lear
 
 <!-- quick links -->
 <!-- badge info -->
-[course-badge]:https://img.shields.io/badge/learning-programming%20foundations-ffffff?logo=Linkedin&labelColor=0a66c2&style=for-the-badge
+[course-badge]:https://img.shields.io/badge/learning-algorithms-ffffff?logo=Linkedin&labelColor=0a66c2&style=for-the-badge
 [course-link]:https://www.linkedin.com/learning/programming-foundations-algorithms "view on LinkedIn"
 [learning-license-badge]:https://img.shields.io/badge/learning-license-ffffff?logo=Linkedin&labelColor=0a66c2&style=for-the-badge
 [learning-license]:../linkedin_learning_license "view license agreement"
